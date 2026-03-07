@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title> Dudakakes</title>
+  <meta name="description"
+    content="Encomende bolos, doces e salgados fresquinhos. Entrega rápida e retirada no local. Faça seu pedido pelo WhatsApp!" />
+  <meta name="theme-color" content="#d32599" />
+
+  <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+<header class="menu">
+  
+  <div class="logo-area">
+    <img src="images/logo.png" class="logo">
+    <h1>Dudakakes</h1>
+  </div>
+
+  <nav class="menu-links">
+    <a href="index.html">Início</a>
+    <a href="bolos.html">Bolos</a>
+    <a href="doces.html">Doces</a>
+    <a href="salgados.html">Salgados</a>
+    
+  </nav>
+
+</header>
+
+  <div class="container">
+    <h2>Nossos Produtos</h2>
+ <p>Delícias bolo Doces e Salgados</p>
+    <div class="produtos">
+
+      <!-- BOLO 1 -->
+      <div class="card">
+        <img src="images/bolo-chocolate.jpg" alt="Bolo de Chocolate">
+        <h3>Bolo de Chocolate</h3>
+        <p>Sabor: Chocolate com cobertura cremosa</p>
+        <p class="preco">R$ 35,00</p>
+        <p>Prazo de entrega: 1 dia</p>
+        <a class="btn"
+          href="https://wa.me/5581999999999?text=Olá,%20quero%20pedir%20Bolo%20de%20Chocolate%20-%20R$35,00%20-%20Entrega%201%20dia">
+          Pedir no WhatsApp
+        </a>
+      </div>
+
+      <!-- BOLO 2 -->
+      <div class="card">
+        <img src="images/bolo-morango.jpg" alt="Bolo de Morango">
+        <h3>Bolo de Morango</h3>
+        <p>Sabor: Massa branca com recheio de morango</p>
+        <p class="preco">R$ 40,00</p>
+        <p>Prazo de entrega: 1 dia</p>
+        <a class="btn"
+          href="https://wa.me/5581999999999?text=Olá,%20quero%20pedir%20Bolo%20de%20Morango%20-%20R$40,00%20-%20Entrega%201%20dia">
+          Pedir no WhatsApp
+        </a>
+      </div>
+
+      <!-- DOCE -->
+      <div class="card">
+        <img src="images/brigadeiro.jpg" alt="Brigadeiro Gourmet">
+        <h3>Brigadeiro Gourmet (10 un)</h3>
+        <p>Sabor: Chocolate tradicional</p>
+        <p class="preco">R$ 15,00</p>
+        <p>Prazo de entrega: Mesmo dia</p>
+        <a class="btn"
+          href="https://wa.me/5581999999999?text=Olá,%20quero%20pedir%2010%20Brigadeiros%20-%20R$15,00%20-%20Entrega%20mesmo%20dia">
+          Pedir no WhatsApp
+        </a>
+      </div>
+
+      <!-- SALGADO -->
+      <div class="card">
+        <img src="images/coxinha.jpg" alt="Coxinha">
+        <h3>Coxinha (20 un)</h3>
+        <p>Sabor: Frango com catupiry</p>
+        <p class="preco">R$ 25,00</p>
+        <p>Prazo de entrega: Mesmo dia</p>
+        <a class="btn"
+          href="https://wa.me/5581999999999?text=Olá,%20quero%20pedir%2020%20Coxinhas%20-%20R$25,00%20-%20Entrega%20mesmo%20dia">
+          Pedir no WhatsApp
+        </a>
+      </div>
+
+
+<!-- SALGADO -->
+      <div class="card">
+        <img src="images/coxinha.jpg" alt="Coxinha">
+        <h3>Coxinha (20 un)</h3>
+        <p>Sabor: Frango com catupiry</p>
+        <p class="preco">R$ 25,00</p>
+        <p>Prazo de entrega: Mesmo dia</p>
+        <a class="btn"
+          href="https://wa.me/5581999999999?text=Olá,%20quero%20pedir%2020%20Coxinhas%20-%20R$25,00%20-%20Entrega%20mesmo%20dia">
+          Pedir no WhatsApp
+        </a>
+      </div>
+
+      <!-- SALGADO -->
+      <div class="card">
+        <img src="images/coxinha.jpg" alt="Coxinha">
+        <h3>Coxinha (20 un)</h3>
+        <p>Sabor: Frango com catupiry</p>
+        <p class="preco">R$ 25,00</p>
+        <p>Prazo de entrega: Mesmo dia</p>
+        <a class="btn"
+          href="https://wa.me/5581999999999?text=Olá,%20quero%20pedir%2020%20Coxinhas%20-%20R$25,00%20-%20Entrega%20mesmo%20dia">
+          Pedir no WhatsApp
+        </a>
+      </div>
+
+      <!-- SALGADO -->
+      <div class="card">
+        <img src="images/coxinha.jpg" alt="Coxinha">
+        <h3>Coxinha (20 un)</h3>
+        <p>Sabor: Frango com catupiry</p>
+        <p class="preco">R$ 25,00</p>
+        <p>Prazo de entrega: Mesmo dia</p>
+        <a class="btn"
+          href="https://wa.me/5581999999999?text=Olá,%20quero%20pedir%2020%20Coxinhas%20-%20R$25,00%20-%20Entrega%20mesmo%20dia">
+          Pedir no WhatsApp
+        </a>
+      </div>
+
+      <!-- SALGADO -->
+      <div class="card">
+        <img src="images/coxinha.jpg" alt="Coxinha">
+        <h3>Coxinha (20 un)</h3>
+        <p>Sabor: Frango com catupiry</p>
+        <p class="preco">R$ 25,00</p>
+        <p>Prazo de entrega: Mesmo dia</p>
+        <a class="btn"
+          href="https://wa.me/5581999999999?text=Olá,%20quero%20pedir%2020%20Coxinhas%20-%20R$25,00%20-%20Entrega%20mesmo%20dia">
+          Pedir no WhatsApp
+        </a>
+      </div>
+
+    </div>
+  </div>
+
+  <footer>
+    © 2026 Delícias da - Todos os direitos reservados
+  </footer>
+
+</body>
+
+</html>

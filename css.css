@@ -16,7 +16,7 @@ color:white;
 display:flex;
 justify-content:space-between;
 align-items:center;
-padding:12px 35px; /* afastou mais do canto */
+padding:12px 35px;
 width:100%;
 box-sizing:border-box;
 position:relative;
@@ -38,7 +38,7 @@ gap:10px;
 /* NOME DA LOJA */
 
 .logo-nome{
-font-size:20px; /* diminuiu o tamanho */
+font-size:20px;
 margin:0;
 }
 
@@ -112,7 +112,6 @@ color:#494949;
 font-size:28px;
 margin-bottom:10px;
 }
-
 
 .nome{
 font-weight:bold;
@@ -273,8 +272,39 @@ display:flex;
 grid-template-columns:1fr;
 }
 
+/* MODAL ESTILO APP */
+
+.modal{
+align-items:flex-end;
+}
+
+.modal-content{
+width:100%;
+max-width:100%;
+border-radius:20px 20px 0 0;
+max-height:85vh;
+overflow-y:auto;
+animation:subirModal 0.3s ease;
+}
+
+/* ANIMAÇÃO */
+
+@keyframes subirModal{
+from{
+transform:translateY(100%);
+}
+to{
+transform:translateY(0);
+}
+}
+
 .modal-box{
 flex-direction:column;
+}
+
+.modal-direita img{
+height:180px;
+width:100%;
 }
 
 .modal-direita{

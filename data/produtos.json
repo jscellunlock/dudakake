@@ -1,0 +1,12 @@
+{
+ "produtos":[
+  {
+   "id":1,
+   "nome":"Bolo Chocolate com Ninho",
+   "desc":"Bolo caseiro fofinho com recheio",
+   "preco":"45",
+   "imagem":"img/ninho.jpeg",
+   "prazo":"60 minutos"
+  }
+ ]
+}

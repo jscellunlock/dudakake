@@ -72,7 +72,7 @@ prazo:"60 minutos"
 nome:"Bolo caseiro simples: trigo",
 desc:"Simples: trigo)",
 preco:"R$ 20,00",
-imagem:"img/bana",
+imagem:"img/trigo.jpeg",
 prazo:"60 minutos"
 },
 
@@ -104,7 +104,7 @@ prazo:"60 minutos"
 nome:"Bolo caseiro simples: Mesclado",
 desc:"Simples: Mesclado)",
 preco:"R$ 23,00",
-imagem:"img/bana",
+imagem:"img/mesclado.jpeg",
 prazo:"60 minutos"
 },
 
@@ -128,7 +128,7 @@ prazo:"60 minutos"
 nome:"Mine bolo vulcao Sabor: Chocolate",
 desc:"Sabor: Chocolate)",
 preco:"R$ 14,00",
-imagem:"img/bana",
+imagem:"img/chocolate.jpeg",
 prazo:"60 minutos"
 },
 
@@ -136,7 +136,7 @@ prazo:"60 minutos"
 nome:"Mine bolo vulcao Sabor: Bem casado",
 desc:"Sabor: Bem casado)",
 preco:"R$ 14,00",
-imagem:"img/bana",
+imagem:"img/casado.jpeg",
 prazo:"60 minutos"
 },
 
@@ -144,7 +144,7 @@ prazo:"60 minutos"
 nome:"Mine bolo vulcao Sabor: Chocolate com musse de maracuja",
 desc:"Sabor: Chocolate com musse de maracuja)",
 preco:"R$ 15,00",
-imagem:"img/bana",
+imagem:"img/maracuja.jpeg",
 prazo:"60 minutos"
 },
 
@@ -152,7 +152,7 @@ prazo:"60 minutos"
 nome:"Mine bolo vulcao Sabor: Ninho com morango",
 desc:"Sabor: Ninho com morango)",
 preco:"R$ 15,00",
-imagem:"img/bana",
+imagem:"img/ninho2.jpeg",
 prazo:"60 minutos"
 },
 
@@ -160,7 +160,7 @@ prazo:"60 minutos"
 nome:"Mine bolo vulcao Sabor: Chocolate com morango",
 desc:"Sabor: Chocolate com morango)",
 preco:"R$ 15,00",
-imagem:"img/bana",
+imagem:"img/morango.jpeg",
 prazo:"60 minutos"
 },
 
@@ -168,7 +168,7 @@ prazo:"60 minutos"
 nome:"Mine bolo vulcao Sabor: Ninho com geleia de morango",
 desc:"Sabor: Ninho com geleia de morango)",
 preco:"R$ 15,00",
-imagem:"img/bana",
+imagem:"img/geleia.jpeg",
 prazo:"60 minutos"
 }
 
